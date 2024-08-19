@@ -28,9 +28,9 @@ To set up the project locally, follow these steps:
 - OpenCV (for camera functionality)
 
 ## Usage
-Start the System: Once the application is running, it will continuously monitor employee activity.
-Inactivity Detection: If inactivity is detected, the system will start countdowns and take actions as described above.
-Data Storage: Captured screenshots and photos are saved in the specified folder.
+1. **Start the System**: Once the application is running, it will continuously monitor employee activity.
+2. **Inactivity Detection**: If inactivity is detected, the system will start countdowns and take actions as described above.
+3. **Data Storage**: Captured screenshots and photos are saved in the specified folder.
 
 ## Contributing
 Feel free to fork this repository and make contributions. Pull requests are welcome!
