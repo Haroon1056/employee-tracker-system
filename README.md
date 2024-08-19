@@ -23,9 +23,9 @@ Key features include:
 To set up the project locally, follow these steps:
 
 ## Requirements
-Python 3.x
-PyQt5
-OpenCV (for camera functionality)
+- Python 3.x
+- PyQt5
+- OpenCV (for camera functionality)
 
 ## Usage
 Start the System: Once the application is running, it will continuously monitor employee activity.
